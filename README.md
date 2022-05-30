@@ -1,0 +1,2 @@
+# Problema-2-Proyecto-1
+Ha sido seleccionado para nuestra vacante como Analista de Datos. Para asegurarnos de que está listo para entrar a nuestro equipo de programadores de software necesitamos que primero realice unos cálculos sencillos de estadística. Un cliente nos ha Suministrado una data emitida en forma de lista por lo que usted cómo programador debe diseñar un código que: ● Leer desde el teclado la data del cliente, con un mínimo de 20 valores. ● Mostrar la data en la pantalla ● Encuentre la media ● La mediana ● El rango ● La desviación estándar
